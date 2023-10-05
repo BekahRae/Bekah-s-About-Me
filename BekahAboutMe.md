@@ -15,7 +15,7 @@
 -SICTC
 
 ## Personal Philosophy
-"Hey, you need somthin' done right, don't ask me." 
+"Hey, you need somthin' done right, **don't** ask me." 
 -Uncle Si
 
 ## Code Language
@@ -26,13 +26,13 @@ mkdir: Bekah's Bio
 cd Bekah's Bio
 
 cd ..
-## Skills and Qualifications
 
--Soccer Player
+|Skills and Qualifications |
+|--------------------------|
+|CPR Certified|
+|Soccer Player|
+|Artist...?|
 
--CPR Certified
-
--Trained for a food Workplace
 
 ## Emoji 
 :expressionless:
